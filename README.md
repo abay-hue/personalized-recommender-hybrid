@@ -3,6 +3,13 @@
 K-Means segments + LightFM collaborative filtering with FastAPI/Streamlit demo.
 
 ## Quickstart
+
+## Demo
+- Screenshot/GIF here
+
+## Results
+- Metric table (e.g., accuracy / AUC / MAE)
+
 ```bash
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
